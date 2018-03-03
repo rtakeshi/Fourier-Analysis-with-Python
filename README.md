@@ -1,2 +1,6 @@
-# Fourier-Analysis-with-Python
-Fourier Transform With Python 3
+# Fourier Analysis with Python 3
+
+##Dependencies:
+Numpy
+Matplotlib
+Pandas

@@ -1,6 +1,10 @@
 # Fourier Analysis with Python 3
 
-##Dependencies:
-Numpy
-Matplotlib
-Pandas
+### Dependencies:<br />
+
+Numpy<br />
+
+Matplotlib<br />
+
+Pandas<br />
+
